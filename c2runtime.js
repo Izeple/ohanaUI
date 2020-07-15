@@ -20871,11 +20871,11 @@ cr.behaviors.solid = function(runtime)
 }());
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Function,
-	cr.plugins_.Touch,
-	cr.plugins_.TextBox,
-	cr.plugins_.Text,
 	cr.plugins_.C2WebSocket,
 	cr.plugins_.Sprite,
+	cr.plugins_.TextBox,
+	cr.plugins_.Touch,
+	cr.plugins_.Text,
 	cr.behaviors.Pin,
 	cr.behaviors.Fade,
 	cr.behaviors.Bullet,
