@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1594812197,
+	"version": 1594821715,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,8 +23,6 @@
 		"images/cheer-sheet0.png",
 		"images/cheer-sheet1.png",
 		"images/cheer-sheet2.png",
-		"images/hearthana-sheet0.png",
-		"images/hearthana-sheet1.png",
 		"images/bigachu-sheet0.png",
 		"images/bigachu-sheet1.png",
 		"images/bigcat-sheet0.png",
