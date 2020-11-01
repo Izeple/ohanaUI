@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1595911393,
+	"version": 1604252799,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -64,8 +64,8 @@
 		"images/hyperracc-sheet0.png",
 		"images/hyperracc-sheet1.png",
 		"images/hyperracc-sheet2.png",
-		"images/3x-sheet0.png",
-		"images/3x-sheet1.png",
+		"images/bigbow-sheet0.png",
+		"images/bigbow-sheet1.png",
 		"images/bigalpaca-sheet0.png",
 		"images/bigalpaca-sheet1.png",
 		"images/bigbear-sheet0.png",
@@ -147,7 +147,6 @@
 		"images/cake-sheet0.png",
 		"images/rain-sheet0.png",
 		"images/return-sheet0.png",
-		"images/crabdance-sheet0.png",
 		"images/spacerain-sheet0.png",
 		"images/spacenormal-sheet0.png",
 		"images/face-sheet0.png",
